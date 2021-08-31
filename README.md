@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Long Tuan Nguyen - a.k.a @Sorairono
 - 👀 I’m interested in creating and developing apps.
-- 🌱 I’m currently seeking for a full-time job.
-- 📫 How to reach me: longtuan.nguyen2899@gmail.com
+- 📫 How to reach me: long281999@gmail.com or Discord 雨垂れの音#6886
 
 <!---
 Sorairono/Sorairono is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
